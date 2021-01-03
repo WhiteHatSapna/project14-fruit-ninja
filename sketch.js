@@ -32,7 +32,7 @@ function setup()
 }
 
 function draw(){
-  background("lightpink");
+  background("lightyellow");
   text("Score: "+ score,400,50);
   
   if(gameState === PLAY)
